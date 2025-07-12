@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>منوی کافه</title>
+</head>
+<body>
+  <h1>🍵 منوی کافه</h1>
+  <ul>
+    <li>قهوه: 30000 تومان</li>
+    <li>چای: 15000 تومان</li>
+    <li>کاپوچینو: 35000 تومان</li>
+  </ul>
+  <p>
+    <a href="https://replit.com/@yourname/cafe-menu" target="_blank">▶️ اجرای آنلاین در Replit</a><br>
+    <a href="https://github.com/yourusername/cafe-menu-cli">📂 مشاهده سورس کد در GitHub</a>
+  </p>
+</body>
+</html>
